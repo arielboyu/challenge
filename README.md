@@ -2,6 +2,24 @@
     <img src='https://static.wixstatic.com/media/85087f_0d84cbeaeb824fca8f7ff18d7c9eaafd~mv2.png/v1/fill/w_160,h_30,al_c,q_85,usm_0.66_1.00_0.01/Logo_completo_Color_1PNG.webp' </img>
 </p>
 
+# Algunas Capturas del proyecto realizado
+
+
+### `Se hizo el filtrado por condición, precio y paginación por cada 15 productos`
+
+### `-->`
+![](https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-0/p180x540/138796875_231685888482867_9125119503483297354_o.jpg?_nc_cat=110&ccb=2&_nc_sid=730e14&_nc_ohc=0BDGxt4tilcAX-Zt2bY&_nc_ht=scontent.faep14-2.fna&tp=6&oh=7d99cf8c17d78086a560ad2ceb9c0884&oe=6025DA57)
+
+### `-->`
+
+![](https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-0/p180x540/138794822_231683508483105_1592861225814615687_o.jpg?_nc_cat=103&ccb=2&_nc_sid=730e14&_nc_ohc=sEb9zuwIVvcAX8z_j2q&_nc_ht=scontent.faep14-2.fna&tp=6&oh=f56f0decb75b93afcb1efef6ea10dc05&oe=60247969)
+
+
+### `se ajusto a diseño responsivo-->`
+
+
+
+![](https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-9/138741208_231702428481213_4822194916446817530_n.jpg?_nc_cat=103&ccb=2&_nc_sid=730e14&_nc_ohc=3aG4qpQgW9MAX-GdBfa&_nc_ht=scontent.faep14-2.fna&oh=f051ed9c7bd7ee3d3121b89b0e77621c&oe=602535A9)
 # Labs Challenge
 
 El objetivo del challenge es construir un Front-End y un Back-End que interactuen con una API externa.

@@ -6,9 +6,10 @@ import React from "react"
  return (
     <div className="filter" style={{ background:"grey"}}  >
     <div className="filter-result" style={{ color:"white"}} Products >Se encontraron {count} Productos</div>
-         <div  style={{ color:"white"}} >
+         <div className="condition" style={{ color:"white"}} >
            Filtrar{" "}
            <select
+           
            value={condition}
            onChange={filterCondition}
            >
@@ -17,7 +18,7 @@ import React from "react"
             <option value="new">Nuevo</option>
            </select>
          </div>
-         <div  style={{ color:"white"}} >
+         <div  className="price" style={{ color:"white"}} >
           Ordenar{" "}
           <select
           value={price}

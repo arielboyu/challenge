@@ -7,7 +7,7 @@ export default function ProductCard({title, price, address, thumbnail, available
     return (
       <div className="col mb-4 mt-4">
       <div class="card">
-      <img class="card-img"  style={{  width: "340px", height: "200px" }} src={thumbnail} alt="Card image cap" ></img>
+      <img className="card-img"  style={{  width: "340px", height: "200px" }} src={thumbnail} alt="Card image cap" ></img>
       <div class="card-body"  style={{ background: "white" }}  >
         <h5 class="card-title">{title}</h5>
         <p class="card-text" style={{fontSize:"23px"}} >Estado: {condition}</p>
@@ -16,7 +16,7 @@ export default function ProductCard({title, price, address, thumbnail, available
         <p class="card-text" style={{fontSize:"23px"}} ><ion-icon name="navigate-circle-outline"></ion-icon>  {address.city_name}</p>
       </div>
       <div class="card-body d-flex " style={{ backgroundImage: "url(https://i.pinimg.com/564x/29/a0/10/29a010af85c39654fd79feee868e7ca0.jpg)"}} >
-        <a href={permalink} class=" ml-auto "><button type="button" class="btn btn-info ml-auto "><ion-icon name="add-outline"></ion-icon> info</button></a>
+        <a href={permalink} class=" ml-auto "><button type="button" class="btn1 btn-info ml-auto "><ion-icon name="add-outline"></ion-icon> info</button></a>
       </div>
     </div>
     </div>
