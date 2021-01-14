@@ -4,7 +4,7 @@ import React, { useState } from "react"
 export default  function SearchBar({onSearch}) {
   const [key, setKey] = useState("")
 
-  const url = (`http://localhost:3001/search?q=${key}`)
+  const url = (`https://tiendaback.herokuapp.com/search?q=${key}`)
 
   const handleSubmit = async (e) => {
     e.preventDefault()
