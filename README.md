@@ -2,6 +2,13 @@
     <img src='https://static.wixstatic.com/media/85087f_0d84cbeaeb824fca8f7ff18d7c9eaafd~mv2.png/v1/fill/w_160,h_30,al_c,q_85,usm_0.66_1.00_0.01/Logo_completo_Color_1PNG.webp' </img>
 </p>
 
+### `Se hizo el deploy con herokuapp, desde un clon del en otro repositorio`
+
+
+Puedes ver el proyecto en el siguiente link : [TiendaVirtual](https://tiendavirtualapp.herokuapp.com/)
+
+
+
 # Algunas Capturas del proyecto realizado
 
 
@@ -18,8 +25,15 @@
 ### `se ajusto a diseño responsivo-->`
 
 
+![](https://scontent.faep24-1.fna.fbcdn.net/v/t1.0-9/139504442_232105148440941_4345287256914133085_n.jpg?_nc_cat=109&ccb=2&_nc_sid=730e14&_nc_ohc=AU_Jcl6doFMAX925c6V&_nc_ht=scontent.faep24-1.fna&oh=7b6088bc2b9bb4d17141d83e4d47aeec&oe=60255C5C)
+
 
 ![](https://scontent.faep14-2.fna.fbcdn.net/v/t1.0-9/138741208_231702428481213_4822194916446817530_n.jpg?_nc_cat=103&ccb=2&_nc_sid=730e14&_nc_ohc=3aG4qpQgW9MAX-GdBfa&_nc_ht=scontent.faep14-2.fna&oh=f051ed9c7bd7ee3d3121b89b0e77621c&oe=602535A9)
+
+<p align='center'>
+    <img src='https://media3.giphy.com/media/ZZGwSLGlt7prkbV2Fi/200w.webp?cid=ecf05e479dwim8xxkb2p3ozqlex66yz8vtti34hmyjerf2g8&rid=200w.webp' </img>
+</p>
+
 # Labs Challenge
 
 El objetivo del challenge es construir un Front-End y un Back-End que interactuen con una API externa.
